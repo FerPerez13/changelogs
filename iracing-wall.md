@@ -1,21 +1,11 @@
-# Changelog
+## 0.0.1 - 
+### ✨ Added
+- Overlay para OBS con las estadisticas actuales que se actualiza cada 3 minutos
+- Overlay para OBS con la última carrera que se actualiza cada 3 minutos
+- Cambio de tema y almacenamiento de la elección en las cockies del navegador
 
-## [Unreleased]
-### Added
-- New feature to search for drivers by name.
-- Changelog component to display the latest updates.
+### 👷🏻 Changed
+- Mejoras visuales generales
 
-### Changed
-- Updated the UI for better user experience.
-- Improved performance of the driver search functionality.
-
-### Fixed
-- Fixed a bug where the driver search would not return results for certain names.
-- Resolved an issue with the theme toggle not working correctly.
-
-## [1.0.0] - 2023-10-01
-### Added
-- Initial release of iRacing.GG.
-- Basic driver search functionality.
-- Theme toggle feature.
-- Home page with welcome message and site description.
+### 🐞 Solved Bugs
+- Problemas a la hora de acceder a la API de iRacing
