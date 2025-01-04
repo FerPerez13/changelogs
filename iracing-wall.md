@@ -1,4 +1,4 @@
-## 0.0.1 - 04/01/2025
+## v0.0.1 - 04-01-2025
 ### ✨ Added
 - Overlay para OBS con las estadisticas actuales que se actualiza cada 3 minutos
 - Overlay para OBS con la última carrera que se actualiza cada 3 minutos
