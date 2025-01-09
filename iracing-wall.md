@@ -1,3 +1,8 @@
+## v0.0.2 - 09-01-2025
+### 👷‍♂️ Changed
+- Overlay para OBS con las estadísticas actuales. Ahora tiene un formato más tipo carnet o licencia
+- Uso del componente de las licencias para mostrar la interfaz de la información del piloto
+
 ## v0.0.1 - 04-01-2025
 ### ✨ Added
 - Overlay para OBS con las estadisticas actuales que se actualiza cada 3 minutos
