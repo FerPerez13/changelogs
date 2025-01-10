@@ -1,3 +1,8 @@
+## v0.0.3 - 10-01-2025
+### ✨ Added
+- Información de si un piloto es o no Creador de Contenido y sus redes Socales
+- Si no es creador de contenido, se mostrará un botón para mostrar un formulario con el que poder rellenar los datos si asi lo es
+
 ## v0.0.2 - 09-01-2025
 ### 👷‍♂️ Changed
 - Overlay para OBS con las estadísticas actuales. Ahora tiene un formato más tipo carnet o licencia
@@ -8,9 +13,7 @@
 - Overlay para OBS con las estadisticas actuales que se actualiza cada 3 minutos
 - Overlay para OBS con la última carrera que se actualiza cada 3 minutos
 - Cambio de tema y almacenamiento de la elección en las cockies del navegador
-
 ### 👷🏻 Changed
 - Mejoras visuales generales
-
 ### 🐞 Solved Bugs
 - Problemas a la hora de acceder a la API de iRacing
