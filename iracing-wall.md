@@ -1,3 +1,7 @@
+## v0.0.4 - 19-01-2025
+### ✨ Added
+- Añadido boton para obtener más información sobre la carrera que has seleccionado
+
 ## v0.0.3 - 10-01-2025
 ### ✨ Added
 - Información de si un piloto es o no Creador de Contenido y sus redes Socales
