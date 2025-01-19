@@ -1,6 +1,9 @@
 ## v0.0.4 - 19-01-2025
 ### ✨ Added
 - Añadido boton para obtener más información sobre la carrera que has seleccionado
+### 👷‍♂️ Changed
+- Mejorada la grafica para que esté ordenado de Izquierda a Derecha
+- Mejoradas todas las fechas para que tengan el formato local del navegador y que cambie la hora correspondiente
 
 ## v0.0.3 - 10-01-2025
 ### ✨ Added
