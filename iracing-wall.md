@@ -1,3 +1,7 @@
+## v0.0.5 - 21-01-2025
+### ✨ Added
+- Añadida la posibilidad de ver carreras multiclase con los pilotos que estan dentro de cada equipo
+
 ## v0.0.4 - 19-01-2025
 ### ✨ Added
 - Añadido boton para obtener más información sobre la carrera que has seleccionado
