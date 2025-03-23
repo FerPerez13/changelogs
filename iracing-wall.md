@@ -1,3 +1,10 @@
+## v0.1.0 - 23-03-2025
+### ✨ Added
+- Añadido en la pantalla principal los eventos especiales de iRacing con una cuenta atrás para saber que queda para cada evento
+
+### 👷‍♂️ Changed
+- Añadido un boton donde ver el changelog y que no aparezca constantemente en la pantalla de inicio
+
 ## v0.0.5 - 21-01-2025
 ### ✨ Added
 - Añadida la posibilidad de ver carreras multiclase con los pilotos que estan dentro de cada equipo
